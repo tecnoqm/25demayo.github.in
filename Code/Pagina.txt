@@ -1,0 +1,46 @@
+﻿<html lang="es">
+<body style="background-color:#4da6ff;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" /> <style type="text/css" id="operaUserStyle"></style></head><body style="background-color:#4da6ff;">
+
+<title>25 de Mayo</title>
+<center>
+<button onclick="document.location='Pagina.html'">Inicio</button>
+<button onclick="document.location='Video.html'">Video</button>
+</center>
+<font size="12">
+<center>25 de Mayo</center>
+</font>
+<p>
+El 25 de mayo es una festividad que conmemora la revolucion Argentina de 1810, en este dia se formo el primer gobierno patrio 
+de Argentina fuera del virreinato de España.
+</p>
+<center>
+<img title="El Cabildo en la actualidad" width="370" height="360" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/El_Cabildo_%282954913823%29.jpg/800px-El_Cabildo_%282954913823%29.jpg" alt="El Cabildo en la actualidad">
+</center>
+<h2>
+¿Por que se formo el gobierno patrio?¿Y como se formo?
+</h2>
+<p>
+Se formo porque los criollos se querian independizarse de los Españonles, por eso se reunian en secreto para buscar soluciones. 
+Cuando los criollos se enteran de que tienen al rey Fernando VII de España habia sido tomado preso por los franceses, ellos aprovechan para organizarse.
+</p>
+<p>
+El virrey Basaltar Hidalgo de Cisneros les pide al pueblo que se mantengan fieles al rey prisionero.
+</p>
+
+<p>
+Hasta entonces las reuniones del Cabidlo eran privadas(el pueblo no podia participar), pero el pueblo se reunio en la plaza mayor y piden que se haga una reunion 
+del cabildo abierto donde pudieran participar y decidir si el virrey Cisneros continuara o no en el cargo. El virrey al advertir ésto 
+autoriza a que se convoque para el día siguiente a un Cabildo abierto e invita a la gente más importante de la ciudad.El Cabildo abre sus puertas y participan 
+muchos vecinos. Se procede a votar por la continuación o destitución del virrey Cisneros, finalmente se decide destituirlo y reemplazarlo por una junta de gobierno 
+, integrada por vecinos de Buenos Aires. El cabildo nombra a Cisneros como presidente de la primera junta pero el pueblo se opone, pide su renuncia y exige que el 
+nuevo gobierno esté formado por criollos.
+</p>
+<p>
+El 25 de Mayo, Mientras el cabildo estaba en una reunion privada, la mañana de ese dia, los cabildantes reciben un petitorio firmado por cientos de vecinos
+donde proponen los nombres de varios patriotas para formar el primer gobierno patrio. Al terminar la reunion se da a conocer el nombre de los patriotas que
+formarian la primera junta del gobierno	
+</p>
+</body>
+</html>

@@ -1,0 +1,16 @@
+﻿<html lang="es">
+<body style="background-color:#4da6ff;">
+<head>
+ <title>Video del 25 de Mayo</title>
+</head>
+<center>
+<button onclick="document.location='Pagina.html'">Inicio</button>
+<button onclick="document.location='Video.html'">Video</button>
+<p> </p>
+<iframe width="650" height="515" src="https://www.youtube.com/embed/mYn649fHqhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3>Resumen del video</h3>
+</center>
+<p>El 25 de mayo se conmemora la revolución de mayo y también celebramos el día de la patria. 
+Los acontecimientos de 1810 en mayo desembarcaron en la revolución de mayo así consiguiendo la conformación de la primera junta,primer gobierno criollo,origen de  nuestra nación</p>
+</body>
+</html>
